@@ -1,0 +1,14 @@
+.search-text {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+p {
+  margin-top: 7px;
+  height: 10px;
+}
+.image {
+  margin: 10px;
+  height: 20px;
+}
